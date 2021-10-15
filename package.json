@@ -1,0 +1,17 @@
+{
+  "name": "nowait",
+  "version": "1.0.0",
+  "description": "Web app for skipping queues when ordering food. ",
+  "main": "index.js",
+  "author": "Bryan and Daniel ",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
